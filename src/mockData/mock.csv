@@ -1,4 +1,4 @@
-name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId,size
+name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId,size,añosExp
 Francesc Puig Alarcon, https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/cto.jpg,Corporate,http://example.com/employee/profile    ,CTO office,"Ceo,tag1,manager,cto",false,Chief Executive Officer ,0-0098,,,50
 Enrique Santoja, https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/cto.jpg,Corporate,http://example.com/employee/profile    ,CTO office,"Ceo,tag1,manager,cto",false,Chief Executive Officer ,0-0099,0-0098,,30
 Toni Recio,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/cto.jpg,Corporate,http://example.com/employee/profile    ,CTO office,"Ceo,tag1,manager,cto",false,Chief Executive Officer ,0-0001,0-0099,,2
