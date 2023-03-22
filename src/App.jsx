@@ -6,8 +6,9 @@ const App = () => {
   const [data, setData] = useState(null);
   useEffect(() => {
     d3.csv(
-      'https://raw.githubusercontent.com/bumbeishvili/sample-data/main/org.csv'
+      'https://raw.githubusercontent.com/rubenaranda/mock-csv-sample/master/src/mockData/mock.csv'
     ).then((data) => {
+      console.log(data)
      setData(data)
     });
   }, []);
