@@ -9,7 +9,7 @@ export const OrgChartComponent = (props, ref) => {
     if (props.data && d3Container.current) {
       if (!chart) {
         chart = new OrgChart();
-      }
+      } 
       chart
         .container(d3Container.current)
         .data(props.data)
